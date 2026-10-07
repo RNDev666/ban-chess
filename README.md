@@ -8,7 +8,7 @@ Built with:
 
 - [Next.js 15.5.2 (App Router)](https://nextjs.org/) — UI & routing with React 19
 - [@bezalel6/react-chessground](https://www.npmjs.com/package/@bezalel6/react-chessground) — interactive chessboard
-- [ban-chess.ts v3.0.0](https://github.com/bezalel6/ban-chess.ts) — variant engine
+- [ban-chess.ts v3.0.0](https://github.com/RNDev666/ban-chess.ts) — variant engine
 - [WebSockets](https://www.npmjs.com/package/ws) — real-time sync between players
 - [NextAuth.js](https://next-auth.js.org/) — optional authentication with Google & Lichess OAuth
 
@@ -138,7 +138,7 @@ This platform features anonymous-first gameplay inspired by Lichess, real-time m
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/bezalel6/2ban-2chess.git
+git clone https://github.com/RNDev666/2ban-2chess.git
 cd 2ban-2chess
 npm install
 ```
@@ -376,7 +376,7 @@ npm run test:ui
 
 ### Credits
 
-* **[ban-chess.ts](https://github.com/bezalel6/ban-chess.ts)** by [@bezalel6](https://github.com/bezalel6) - Core game engine
+* **[ban-chess.ts](https://github.com/RNDev666/ban-chess.ts)** by [@RNDev666](https://github.com/RNDev666) - Core game engine
 * **[@bezalel6/react-chessground](https://www.npmjs.com/package/@bezalel6/react-chessground)** - Enhanced React wrapper for Chessground
 * **[Chessground](https://github.com/lichess-org/chessground)** by Lichess - Interactive chessboard library
 

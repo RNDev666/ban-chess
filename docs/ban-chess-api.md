@@ -10,17 +10,17 @@ A TypeScript wrapper library for implementing the **Ban Chess** variant on top o
 
 ## Try It Online
 
-You can access this playground to test and experiment with the variant: **[https://bezalel6.github.io/ban-chess.ts/](https://bezalel6.github.io/ban-chess.ts/)**
+You can access this playground to test and experiment with the variant: **[https://rndev666.github.io/ban-chess.ts/](https://rndev666.github.io/ban-chess.ts/)**
 
 ## GUI
 
 The interactive GUI for Ban Chess is maintained as a separate repository and included here as a git submodule:
-- **GUI Repository**: [https://github.com/bezalel6/ban-chess-gui](https://github.com/bezalel6/ban-chess-gui)
-- **Live Demo**: [https://bezalel6.github.io/ban-chess.ts/](https://bezalel6.github.io/ban-chess.ts/)
+- **GUI Repository**: [https://github.com/RNDev666/ban-chess-gui](https://github.com/RNDev666/ban-chess-gui)
+- **Live Demo**: [https://rndev666.github.io/ban-chess.ts/](https://rndev666.github.io/ban-chess.ts/)
 
 To clone this repository with the GUI:
 ```bash
-git clone --recursive https://github.com/bezalel6/ban-chess.ts.git
+git clone --recursive https://github.com/RNDev666/ban-chess.ts.git
 ```
 
 To run the GUI locally:
@@ -359,7 +359,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Links
 
 - [NPM Package](https://www.npmjs.com/package/ban-chess.ts)
-- [GitHub Repository](https://github.com/bezalel6/ban-chess.ts)
-- [GUI Repository](https://github.com/bezalel6/ban-chess-gui)
-- [Live Demo](https://bezalel6.github.io/ban-chess.ts/)
-- [Issues](https://github.com/bezalel6/ban-chess.ts/issues)
+- [GitHub Repository](https://github.com/RNDev666/ban-chess.ts)
+- [GUI Repository](https://github.com/RNDev666/ban-chess-gui)
+- [Live Demo](https://rndev666.github.io/ban-chess.ts/)
+- [Issues](https://github.com/RNDev666/ban-chess.ts/issues)

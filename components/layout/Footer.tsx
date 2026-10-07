@@ -9,7 +9,7 @@ export default function Footer() {
           <span>made by RNDev</span>
           <div className="flex items-center space-x-3">
             <Link
-              href="https://github.com/bezalel6/ban-chess"
+              href="https://github.com/RNDev666/ban-chess"
               className="text-foreground-muted hover:text-foreground transition-colors flex items-center space-x-1"
               target="_blank"
               rel="noopener noreferrer"
@@ -18,13 +18,13 @@ export default function Footer() {
               <span>GitHub</span>
             </Link>
             <Link
-              href="https://buymeacoffee.com/rndev"
+              href="https://ko-fi.com/rndev666"
               className="text-foreground-muted hover:text-foreground transition-colors flex items-center space-x-1"
               target="_blank"
               rel="noopener noreferrer"
             >
               <Coffee className="h-4 w-4" />
-              <span>Buy Me a Coffee</span>
+              <span>Ko-fi</span>
             </Link>
           </div>
         </div>
